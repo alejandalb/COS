@@ -7,7 +7,7 @@ while getopts ":h10an:f:u:" arg; do
         <salidas> la/s salida/s afectada/s:  
             -a: Todas las salidas 
             -n x: La salida x 
-            -d x: Desde la salida x 
+            -f x: Desde la salida x 
             –u y: Hasta la salida y "
             ;;
         1)
